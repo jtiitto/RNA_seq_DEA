@@ -1,5 +1,5 @@
 # RNA-seq_Differential Gene Expression Analysis
-RNA-seq allows us to monitor gene-expression on different levels. Data found on this page was used on course FOR-271 "Practical course in Bioinformatics" at University of Helsinki
+RNA-seq allows us to monitor gene-expression on different levels. Data found on this page was used on course FOR-271 "Practical course in Bioinformatics" at University of Helsinki.
 Steps taken to represent the data were:
 - Count normalization
 - Principal Component Analysis & Hierarchical Clustering
